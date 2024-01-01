@@ -1,0 +1,1 @@
+// Just learn maths methods on MDN.com
