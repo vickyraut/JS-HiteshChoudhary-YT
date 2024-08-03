@@ -4,7 +4,7 @@
 
 console.log(3+3)
 
-let bame = "Vicky"
+let name = "Vicky"
 let age = 18
 let isLooged = false
 
